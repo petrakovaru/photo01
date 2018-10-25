@@ -1,0 +1,38 @@
+.navbar-inverse {
+      background: #0e0b16;
+      color: #e7dfdd;
+    }
+    .navbar-inverse .navbar-brand, .navbar-inverse a{
+      color: #e7dfdd;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+      color: #e7dfdd;
+    } 
+
+ body {
+   	background: url(https://images.unsplash.com/photo-1520845696520-8ba155dd0d58?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6b0c8549787133e6bcbc491b60e393cc&auto=format&fit=crop&w=1050&q=80);
+   	background-position: center;
+   	background-size: cover;}
+
+body, html {
+ width: 100%;
+ height: 100%;
+ color: #546ec7;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 4em;
+	color: #546ec7;
+}
+
+
+.content{
+	padding-top: 25%;
+	text-align: justify;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.1),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+         
+}
+
